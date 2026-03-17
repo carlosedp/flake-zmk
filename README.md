@@ -1,5 +1,7 @@
 # Anywhy Flake Firmware
 
-> **Important**: If you have a board version prior to 1.0, you should use the config from Flake_v0.1/v0.2 [branch](https://github.com/anywhy-io/flake-zmk-module/tree/Flake_v0.1/v0.2) and [actions](https://github.com/anywhy-io/flake-zmk-module/actions?query=branch%3AFlake_v0.1%2Fv0.2).
+This is the ZMK firmware for the Anywhy Flake keyboard with my custom keymap.
 
-<img alt="keymap" width="100%" src="./keymap.svg">
+![Anywhy Flake Keymap](keymap-drawer/anywhy_flake.svg)
+
+The original keymap is available at <https://github.com/anywhy-io/flake-zmk-module> and the Flake keyboard project is at <https://github.com/anywhy-io/flake>.
