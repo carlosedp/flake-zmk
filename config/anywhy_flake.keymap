@@ -7,11 +7,6 @@
 / {
     combos {
         compatible = "zmk,combos";
-
-        softoff {
-            bindings = <&soft_off>;
-            key-positions = <14 27 38>; // Keys Q, S, Z
-        };
     };
 
     macros {
